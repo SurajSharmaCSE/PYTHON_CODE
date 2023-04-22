@@ -1,0 +1,4 @@
+#program to add two number
+a=10
+b=20
+print(a+b)
